@@ -1,0 +1,18 @@
+{
+  "name": "dynamic-data-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aadam Zocolo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.6.3",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.2"
+  }
+}
